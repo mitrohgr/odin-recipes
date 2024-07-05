@@ -1,5 +1,5 @@
 # odin-recipes
-A Basic Recipe Website
+A Basic Recipe Website ([Visit the website!](https://mitrohgr.github.io/odin-recipes/))
 
 ## What the project is about
 
@@ -16,5 +16,6 @@ The following technologies were used to create this project:
 + Git
 + GitHub
 + HTML
++ GitHub Pages
 
-> More importantly, I learned quite a lot things: some introductory terms and workings in different phases of web development, motivation and mindset required to finish a course, how to ask for and give technical help, the basics of computers, how the web actually works, setting up and installing a development environment, the basics of command line, git, and GitHub, some introductory stuff on HTML, how to write commit messages, and finishing up a project.
+> More importantly, I learned quite a lot things: some introductory terms and workings in different phases of web development, motivation and mindset required to finish a course, how to ask for and give technical help, the basics of computers, how the web actually works, setting up and installing a development environment, the basics of command line, git, and GitHub, some introductory stuff on HTML, how to write commit messages, finishing up a project, and publishing project site on the web.
