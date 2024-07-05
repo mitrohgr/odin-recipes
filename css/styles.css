@@ -1,9 +1,33 @@
 * {
   font-family: "Times New Roman", "Georgia", "Garamond", serif;
-  background-color: hsl(346, 75%, 85%);
+  background-color: hsl(358, 38%, 84%);
+  text-align: justify;
 }
 
 img {
   height: auto;
-  width: 250px;
+  width: 350px;
+}
+
+#odin-recipes,
+#chicken,
+#pork,
+#salad {
+  font-size: 34px;
+  color: #0c0c7f;
+}
+
+.description.adjust-color,
+.ingredients.adjust-color,
+.steps.adjust-color {
+  color: #130060;
+  font-size: 28px;
+}
+
+ul li,
+ol li,
+p {
+  font-size: 18px;
+  font-weight: 700;
+  color: rgb(63, 8, 1);
 }
