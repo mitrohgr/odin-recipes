@@ -3,7 +3,7 @@ A Basic Recipe Website
 
 ## Demo
 
-
+![Screen cast of odin-recipes website](./img/demo/demo.gif)
 
 ## Status
 
@@ -19,7 +19,13 @@ Here, I build a basic recipe website which consists of a main index page with li
 
 ## Screenshots
 
+![Screenshot of index page](./img/screenshots/index-screenshot.png)
 
+![Screenshot of salad page](./img/screenshots/salad-screenshot.png)
+
+![Screenshot of chicken page](./img/screenshots/chicken-screenshot.png)
+
+![Screenshot of pork page](./img/screenshots/pork-screenshot.png)
 
 ## Technologies
 
