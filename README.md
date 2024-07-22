@@ -56,5 +56,5 @@ Here, I build a basic recipe website which consists of a main index page with li
 
 ## Contact and Support
 
-+ Feel free to contact ***mitrohgr_03505*** for project-related queries.
++ Feel free to contact ***mitrohgr_03505*** on discord for project-related queries.
 + No further feature modifications or improvements will be done to this project.
